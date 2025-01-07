@@ -10,9 +10,7 @@ addStyle(style);
 deleteStyle(style);
 </code>
 
-You can also use toggleStyle() to switch a style on and off.
+You can also use <code>toggleStyle()</code> to switch a style on and off.
 All functions return true on success, false otherwise.
 
 The other four function are just for internal use.
-
-Feel free to use, copy, modify - I am publishing this under the MIT license.
